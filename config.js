@@ -35,7 +35,7 @@ window.Config = {
     },
     {
       text: '主页',
-      url: 'https://gmy.heheda.top/'
+      url: 'https://my.heheda.top/'
     }
   ]
 };
